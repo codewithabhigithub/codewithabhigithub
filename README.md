@@ -1,4 +1,4 @@
-<img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
+<img src="[http://propulsive.in/assets/img/service-icon/dev.gif](https://propulsive.in/assets/img/service-icon/development-process.gif)" alt="web-development" />
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization in MERN stack and DSA. A calm and focused problem solver</h4>
