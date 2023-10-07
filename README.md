@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h4 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization in MERN stack and DSA. A calm and focused problem solver</h4>
 
 - 🔭 I’m currently working as a **Web Developer at**
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://codewithabhi.online/)
+- 👨‍💻 All of my projects are available at [https://codewithabhi.online/](https://codewithabhi.online/)
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **abhishekguptafzd89@gmail.com**
 
-- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1JJ1qwPPOWFJcAw139Ulcf6a_-EVH6Edp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JJ1qwPPOWFJcAw139Ulcf6a_-EVH6Edp/view?usp=sharing](https://drive.google.com/file/d/1JJ1qwPPOWFJcAw139Ulcf6a_-EVH6Edp/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am funny**
 
