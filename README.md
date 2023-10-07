@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://codewithabhi.online/](https://codewithabhi.online/)
+- 👨‍💻 All of my projects are available at [Click here](https://codewithabhi.online/)
 
 - 💬 Ask me about **JavaScript**
 
