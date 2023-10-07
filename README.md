@@ -6,6 +6,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalghutkule&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
 
+<img align="right" width="200px" src="pngwing.com.png" alt="web-development" />
 - 🔭 I’m currently working as a **Web Developer at**
 
 - 🌱 I’m currently learning **Full Stack**
@@ -20,7 +21,6 @@
 
 - ⚡ Fun fact **I think i am funny**
 
-<img align="right" width="100px" src="pngwing.com.png" alt="web-development" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhishe01860637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe01860637" height="30" width="80" /></a>
