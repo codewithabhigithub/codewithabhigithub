@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization in MERN stack and DSA. A calm and focused problem solver</h4>
+<img align="right" width="450" src="https://seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" alt="it's me" />
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalghutkule&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
 
 - 🔭 I’m currently working as a **Web Developer at**
 
