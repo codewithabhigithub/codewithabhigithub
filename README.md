@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalghutkule&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
 <img width="300px" align="right" src="pngwing.com.png">
 
-- 🔭 I’m currently working as a **Web Developer at**
+- 🔭 I’m currently working as a **Wordpress Developer at Wynswell**
 
 - 🌱 I’m currently learning **Full Stack**
 
