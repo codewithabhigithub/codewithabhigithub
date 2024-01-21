@@ -1,10 +1,15 @@
 <img src="https://propulsive.in/assets/img/service-icon/development-process.gif" alt="web-development" />
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
+<h4 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization in MERN stack and DSA. A calm and focused problem solver</h4>
+
+<img align="right" width="450" src="https://seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" alt="it's me" />
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithabhigithub&label=Profile%20views&color=0e75b6&style=flat" alt="codewithabhigithub" /> </p>
-
 <p align="left"> <a href="https://twitter.com/abhishe01860637" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe01860637?logo=twitter&style=for-the-badge" alt="abhishe01860637" /></a> </p>
+
+<img width="300px" align="right" src="pngwing.com.png">
 
 - 🔭 I’m currently working on [Wynswell](https://wynswell.com/)
 
