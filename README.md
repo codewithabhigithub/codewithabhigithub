@@ -1,4 +1,5 @@
 <img src="https://propulsive.in/assets/img/service-icon/development-process.gif" alt="web-development" />
+<img src="https://drive.google.com/file/d/1RWp7m6dBqQEYFn3Gbt0tUWKG017GmHAN/view?usp=sharing" alt="web-development" />
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <h4 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization in MERN stack and DSA. A calm and focused problem solver</h4>
