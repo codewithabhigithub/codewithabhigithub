@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [TCS](https://www.tcs.com/)
 
-- 🌱 I’m currently learning **FullStack Web Developer with Angular,NodeJs and PostgreSql**
+- 🌱 I’m currently learning **FullStack Web Developer with Angular,SpringBoot, and SQL**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-git-main-codewithabhigithubs-projects.vercel.app/)
 
