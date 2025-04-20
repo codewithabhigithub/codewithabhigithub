@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [TCS](https://www.tcs.com/)
 
-- 🌱 I’m currently learning **FullStack Web Developer with Angular,SpringBoot, and SQL**
+- 🌱 I’m currently learning **FullStack Web Developer with Angular, SpringBoot, and SQL**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-git-main-codewithabhigithubs-projects.vercel.app/)
 
-- 💬 Ask me about **Angular,NodeJs and PostgreSql**
+- 💬 Ask me about **Angular, NodeJs, SpringBoot, SQL, and PostgreSql**
 
 - 📫 How to reach me **abhishekguptafzd89@gmail.com**
 
