@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abhishekguptafzd89@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1me08-4botVHw09ZHYtlJOj7UdcABGmXK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1biPfo76jA7mQQegcWLx1UqLgLsO6n2yA/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
